@@ -19,9 +19,9 @@ The objective of this project is to develop a temperature converter program that
 
 ### key activites 
 - **Designing the Menu Interface:**- Create a user-friendly menu to select various temperature conversion options.
--**Implementing Conversion Formulas:**- Write accurate formulas for converting temperatures between Celsius, Fahrenheit, and Kelvin scales.
--**Input Validation and Error Handling:**- Ensure correct user input and handle invalid menu choices gracefully.
--**Testing and Debugging:**- Test the program with different input values to verify accuracy and fix any issues encountered.
+- **Implementing Conversion Formulas:**- Write accurate formulas for converting temperatures between Celsius, Fahrenheit, and Kelvin scales.
+- **Input Validation and Error Handling:**- Ensure correct user input and handle invalid menu choices gracefully.
+- **Testing and Debugging:**- Test the program with different input values to verify accuracy and fix any issues encountered.
 
 
 ### technique used 
