@@ -7,7 +7,7 @@
 
 
 
-## Overview the peroject
+## Overview the project 
 
 ### project : 
 This project is a temperature conversion program written in C that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin using a menu-based system. It demonstrates the application of arithmetic operations and conditional statements in real-world scenarios.
